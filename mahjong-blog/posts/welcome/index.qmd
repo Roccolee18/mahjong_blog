@@ -1,0 +1,12 @@
+---
+title: "Mahjong: Skillful Brain Teaser or Repackgaged Slot Machine?"
+author: "Rocco Lee"
+date: "2026-01-12"
+categories: [analysis]
+---
+
+This is the first post in a Quarto blog. Welcome!
+
+![](jong_thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
