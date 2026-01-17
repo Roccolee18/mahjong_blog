@@ -32,7 +32,7 @@ Mahjong Soul is also one of the largest modern online mahjong platforms that doe
 
 Now for the moment you’ve all been waiting for: below is a chart depicting the average placements of the top 20 players on the Mahjong Soul client based on their most recent 100 games. For reference the player population of Mahjong Soul is roughly 7,000,000. 
 
- ![](stats.jpg)
+ ![](stats.png)
 Figure 2: Average placements of the top 20 Mahjong Soul players
 
 From the chart above, it can be concluded that the average placements of highly skilled players on Mahjong Soul is not an even 25% across all placements. 
